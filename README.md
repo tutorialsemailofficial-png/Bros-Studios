@@ -6,7 +6,7 @@ A brother Company for movies and short films.
 many movies are rated highly.
 
 ### How To Support:
-  1. watch one of our movies
-  2. Subscribe to our youtube
-  3. Share are movies 
-  4. Like the movies 
+  1. **watch** one of our movies
+  2. **Subscribe** to our youtube
+  3. **Share** are movies 
+  4. **Like** the movies 
