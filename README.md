@@ -2,7 +2,7 @@
 A brother Company for movies and short films.
 
 ### What is bro studios?
-**Bro Studios** Is a flim making Production team that makes Animations on roblox to animations on wick
+**Bro Studios** Is a flim making Production team that makes Animations on roblox to animations on wick,
 many movies are rated highly.
 
 ### How To Support:
